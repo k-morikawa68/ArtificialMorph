@@ -1,6 +1,6 @@
 # ArtificialMorph
 
-This is a research codebase for "artificial morphogenesis of curved surface stuctures inspired by differential growth in biology".
+This is a research codebase for "Artificial morphogenesis of curved surface stuctures inspired by differential growth in biology".
 Given a triangular mesh of a target surface, the tool computes and exports the corresponding layout of nonshrinking elements (STL) to be 3D-printed on a heat-shrink film. Upon thermal activation, the sheet transforms from planar to the prescribed curved shape.
 
 > **Repository status (during peer review).**
