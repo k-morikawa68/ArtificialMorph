@@ -1,0 +1,15 @@
+InputFileName3d		frill_500
+InputFileFormat3d	off
+
+Input2dShapeMode	1
+
+InputFileName3d		frill_500_param
+InputFileFormat3d	off
+
+FilmShrinkRate		0.30
+
+PrintWidth			130
+Height				1
+AreaOfTargetShape	3600
+
+End

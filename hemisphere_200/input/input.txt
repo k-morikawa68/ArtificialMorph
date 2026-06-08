@@ -1,0 +1,15 @@
+InputFileName3d		hemisphere_200
+InputFileFormat3d	off
+
+Input2dShapeMode	1
+
+InputFileName2d		hemisphere_200_param
+InputFileFormat2d	off
+
+FilmShrinkRate		0.35
+
+PrintWidth	150
+Height				1
+AreaOfTargetShape	7000
+
+End
