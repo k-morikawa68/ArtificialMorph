@@ -3,6 +3,16 @@
 This is a research codebase for "Artificial morphogenesis of curved surface stuctures inspired by differential growth in biology".
 Given a triangular mesh of a target surface, the tool computes and exports the corresponding layout of nonshrinking elements (STL) to be 3D-printed on a heat-shrink film. Upon thermal activation, the sheet transforms from planar to the prescribed curved shape.
 
+Any work which utilizes this code shall include the following reference:
+
+Morikawa, K., Nakamura, T., Matsumoto, Y., Matsuda, K., Akiyama, M., Yamasaki, S., Kondo, S. & Inoue, Y.
+
+Artificial morphogenesis of curved surface structures inspired by differential growth in biology.
+
+Journal of the Royal Society Interface (2026).
+
+https://doi.org/10.1098/rsif.2025.1094 .
+
 ## Dependencies
 
 | Library | Version | Purpose |
