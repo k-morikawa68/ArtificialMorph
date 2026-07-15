@@ -46,16 +46,6 @@ You can also set `EIGEN_INCLUDE` if Eigen is not installed in `/usr/include/eige
 make EIGEN_INCLUDE=/path/to/eigen3 LIBIGL_INCLUDE=/path/to/libigl/include
 ```
 
-### 3. Compile the evaluation code
-
-```bash
-cd Data/3dScan/hemisphere_shape_eval
-make LIBIGL_INCLUDE=/path/to/libigl/include
-
-cd Data/3dScan/various_shape_eval
-make LIBIGL_INCLUDE=/path/to/libigl/include
-```
-
 ## Usage
 
 ### Generating a 3D-printable pattern
